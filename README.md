@@ -1,2 +1,2 @@
-# HR-Employee-Attrition-Rate
-To predict the employee attrition
+# Employee-Attrition-Rate
+Predicting the employee attrition
